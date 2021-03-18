@@ -1,6 +1,6 @@
 # changes
 # lambda expression
-#  other name is anonymous function
+# other name is anonymous function
 # lambda exprestion means name without funtion
 # lambda use map,filter etc
 
